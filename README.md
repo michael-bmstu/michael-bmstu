@@ -1,8 +1,11 @@
-<h1 align="center">Hi there, I'm Mikhail</a> 
+<h1 align="center">Hi there, I'm Michael</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4 align="center"> Engeneer and ML intern 🇷🇺</h4>
 
 My interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨‍🍳 and 🥊_boxing_🥊
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael-bmstu&theme=transparent)
+
 
 ## Technology stack
 
@@ -23,13 +26,13 @@ My interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking �
 - PyTorch
 
 ## Pin projects
-### [Pix2Pix with GAN, 2023](https://github.com/Mikhail-bmstu/pix2pix_GAN)
+### [Pix2Pix with GAN, 2023](https://github.com/michael-bmstu/pix2pix_GAN)
 
 As part of the final project in the DLS part 1 course, a GAN model was developed to solve the pix2pix problem - changing the style of an image. The model changes the style of a face in an image into a comic.
 
 The model inference is implemented via a telegram bot (currently not active), so you can start image processing yourself, having previously downloaded the weights. Just enter the token of your telegram bot in the bot.py file and run it.
 
-### [Hinge Knitter, 2021](https://github.com/Mikhail-bmstu/HingeKnitter)
+### [Hinge Knitter, 2021](https://github.com/michael-bmstu/HingeKnitter)
 
 Hinge Knitter is a computational tool designed to identify and manipulate specific RNA sequences within a given RNA chain. The program facilitates the generation of multiple instances of a specified sequence, appending these instances to the original RNA sequence retrieved from a hinge file. This functionality is particularly useful in the context of molecular biology and bioinformatics.
 
