@@ -26,4 +26,4 @@ My interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking �
 ### [Pix2Pix with GAN](https://github.com/Mikhail-bmstu/pix2pix_GAN)
 
 As part of the final project in the DLS course, a GAN model was developed to solve the pix2pix problem - changing the style of an image. The model changes the style of a face in an image into a comic.
-The model inference is implemented via a telegram bot (currently not active), so you can start image processing yourself, having previously downloaded the weights. Just enter the token of your telegram bot in the bot.py file.
+The model inference is implemented via a telegram bot (currently not active), so you can start image processing yourself, having previously downloaded the weights. Just enter the token of your telegram bot in the bot.py file and run it.
