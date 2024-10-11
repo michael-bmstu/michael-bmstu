@@ -32,6 +32,12 @@ As part of the final project in the DLS part 1 course, a GAN model was developed
 
 The model inference is implemented via a telegram bot (currently not active), so you can start image processing yourself, having previously downloaded the weights. Just enter the token of your telegram bot in the bot.py file and run it.
 
+### [RuCode (5-th place), 2022](https://github.com/michael-bmstu/RuCode_2022)
+This repository presents a solution to the task "determining the color of a car" of the artificial intelligence track of the [RuCode](https://rucode.net/) 2022 festival.
+
+I built a pipeline to teach the ResNet101 model using photos of cars of different colors.
+
+
 ### [Hinge Knitter, 2021](https://github.com/michael-bmstu/HingeKnitter)
 
 Hinge Knitter is a computational tool designed to identify and manipulate specific RNA sequences within a given RNA chain. The program facilitates the generation of multiple instances of a specified sequence, appending these instances to the original RNA sequence retrieved from a hinge file. This functionality is particularly useful in the context of molecular biology and bioinformatics.
