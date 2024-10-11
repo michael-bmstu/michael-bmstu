@@ -33,7 +33,7 @@ As part of the final project in the DLS part 1 course, a GAN model was developed
 The model inference is implemented via a telegram bot (currently not active), so you can start image processing yourself, having previously downloaded the weights. Just enter the token of your telegram bot in the bot.py file and run it.
 
 ### [RuCode (5-th place), 2022](https://github.com/michael-bmstu/RuCode_2022)
-This repository presents a solution to the task "determining the color of a car" of the artificial intelligence track of the [RuCode](https://rucode.net/) 2022 festival.
+This repository presents a solution to the task "Vehicle Color Recognition" of the artificial intelligence track of the [RuCode](https://rucode.net/) 2022 festival.
 
 I built a pipeline to train the ResNet101 model using photos of cars of different colors. As a result of training, the quality of the model reached the value = 0.9856 of the metric f1-score.
 
