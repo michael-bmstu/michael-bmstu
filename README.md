@@ -35,7 +35,7 @@ The model inference is implemented via a telegram bot (currently not active), so
 ### [RuCode (5-th place), 2022](https://github.com/michael-bmstu/RuCode_2022)
 This repository presents a solution to the task "determining the color of a car" of the artificial intelligence track of the [RuCode](https://rucode.net/) 2022 festival.
 
-I built a pipeline to teach the ResNet101 model using photos of cars of different colors.
+I built a pipeline to train the ResNet101 model using photos of cars of different colors. As a result of training, the quality of the model reached the value = 0.9856 of the metric f1-score.
 
 
 ### [Hinge Knitter, 2021](https://github.com/michael-bmstu/HingeKnitter)
