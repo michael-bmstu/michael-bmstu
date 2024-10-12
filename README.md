@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Michael</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h4 align="center"> Engeneer and ML intern 🇷🇺</h4>
 
 My interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨‍🍳 and 🥊_boxing_🥊
