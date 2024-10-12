@@ -2,10 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h4 align="center"> Engeneer and ML intern 🇷🇺</h4>
 
-My interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨‍🍳 and boxing 🥊
+Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨‍🍳 and boxing 🥊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael-bmstu&theme=transparent)
 
+___
+
+**Open to job offers**
+
+___
 
 ## Technology stack
 
