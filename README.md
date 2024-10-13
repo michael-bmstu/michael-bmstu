@@ -32,7 +32,7 @@ ___
 - PyTorch
 
 ## Pin projects
-### [Pix2Pix with GAN, 2023](https://github.com/michael-bmstu/pix2pix_GAN)
+### [Pix2Pix with GAN, 2023](https://github.com/michael-bmstu/pix2pix_gan)
 
 As part of the final project in the [DLS part 1 course](https://dls.samcs.ru/courses), a GAN model was developed to solve the pix2pix problem - changing the style of an image. The model changes the style of a face in an image into a comic.
 
