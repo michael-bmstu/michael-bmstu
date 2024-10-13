@@ -32,6 +32,16 @@ ___
 - PyTorch
 
 ## Pin projects
+
+### [Clustering recomendation system, 2024](https://github.com/michael-bmstu/clustering_recomend_system)
+
+One of the homework assignments for the [7-bit machine learning course](https://github.com/7bits/ml-courses-7bits) was to develop a recommender system.
+
+The notebook included cleaning data from outliers, forming a one-hot table for training the KMeans clustering model; 
+training the KMeans model and selecting the hyper parameter k (number of clusters). 
+Finally, a recommendation algorithm was implemented based on user ratings for each genre and viewing history.
+
+
 ### [Pix2Pix with GAN, 2023](https://github.com/michael-bmstu/pix2pix_gan)
 
 As part of the final project in the [DLS part 1 course](https://dls.samcs.ru/courses), a GAN model was developed to solve the pix2pix problem - changing the style of an image. The model changes the style of a face in an image into a comic.
