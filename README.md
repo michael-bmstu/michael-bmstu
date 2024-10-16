@@ -30,8 +30,17 @@ ___
 - Scikit-learn
 - CatBoost
 - PyTorch
+- Torchvision
+- Transformers
 
 ## Pin projects
+
+### [RuCode: Home issue (XXX place), 2024](https://github.com/michael-bmstu/RuCode_2024)
+
+This repository presents a solution to the task "Housing Issue" of the artificial intelligence track of the [RuCode](https://rucode.net/) 2024 festival.
+
+It describes the basic data manipulations (NaN filling, EDA) that were performed to achieve the best result, parameter selection and training of the CarBoostRegressor model.
+
 
 ### [Clustering recomendation system, 2024](https://github.com/michael-bmstu/clustering_recomend_system)
 
