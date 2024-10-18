@@ -44,7 +44,7 @@ It describes the basic data manipulations (NaN filling, EDA) that were performed
 * Technology stack used: Scikit-learn, CatBoost, Pandas, Matplotlib, Optuna.
 
 
-### [DLS x ecom.tech workshop (20th place), 2024](https://github.com/michael-bmstu/ecom-t_x_dls)
+### [DLS x ecom.tech workshop (20-th place), 2024](https://github.com/michael-bmstu/ecom-t_x_dls)
 
 This repository presents the top 20 solutions to the problem of multilabel classification using the CatBoost (ML) and BERT (DL) models.
 The [competition](https://ods.ai/competitions/dls_ecomtech) was held at the DLS and ecom.tech workshop.
