@@ -35,7 +35,7 @@ ___
 
 ## Pin projects
 
-### [RuCode: Housing Issue (XXX place), 2024](https://github.com/michael-bmstu/RuCode_2024)
+### [RuCode: Housing Issue (2-nd place), 2024](https://github.com/michael-bmstu/RuCode_2024)
 
 This repository presents a solution to the task "Housing Issue" of the artificial intelligence track of the [RuCode](https://rucode.net/) 2024 festival.
 
