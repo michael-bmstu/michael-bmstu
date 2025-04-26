@@ -1,39 +1,41 @@
 <h1 align="center">Hi there, I'm Michael</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
-<h4 align="center"> Engeneer and ML intern 🇷🇺</h4>
+<h4 align="center"> ML Engeneer, 🇷🇺</h4>
 
 Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨‍🍳 and boxing 🥊
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michael-bmstu&theme=transparent)
 
-___
+## 📚 Education
 
-**Open to job offers**
+### Bachelor’s Degree in Circuit Design and Electronics
+**Institution:** Bauman Moscow State Technical University (BMSTU)  
+**Completion Date:** 2024 
 
-___
+### Additional Courses
 
-## Technology stack
+- **Course Title:** Machine Learning  
+  **Organization:** Open Data Science, Omsk State Technical University (OmGTU), 7-bits  
+  **Completion Date:** 2024  
 
-<div >
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-</div>
+- **Course Title:** Deep Learning in Neural Networks and Computer Vision  
+  **Organization:** Deep Learning School, Moscow Institute of Physics and Technology (MIPT)  
+  **Completion Date:** 2023  
 
+## 🛠 Technology stack
 
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- CatBoost
-- PyTorch
-- Torchvision
-- Transformers
+- **Languages**: Python, C/C++
+- **Frameworks & Libraries**:  PyTorch, Torchvision, Transformers, Keras, Scikit-learn, CatBoost
+- **Tools & Platforms**: Git, VS-code, Airflow, ML Flow
 
-## Pin projects
+## 💻 Professional activity
+- Classic Machine Learning (ML)
+- Data Analysis (DA)
+- Recomendation Systems (RecSys)
+- Computer Vision (CV)
+- Optical Character Recognition (OCR)
+
+## 💼 My projects and achievements
 
 ### [RuCode: Housing Issue (2-nd place), 2024](https://github.com/michael-bmstu/RuCode_2024)
 
