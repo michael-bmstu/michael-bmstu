@@ -25,7 +25,7 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 ## 🛠 Technology stack
 
 - **Languages**: Python, C/C++
-- **Frameworks & Libraries**:  PyTorch, Torchvision, Transformers, Keras, Scikit-learn, CatBoost
+- **Frameworks & Libraries**:  PyTorch, Torchvision, Transformers, Keras, Scikit-learn, CatBoost, OpenCV, Streamlit
 - **Tools & Platforms**: Git, VS-code, Airflow, ML Flow
 
 ## 💻 Professional activity
