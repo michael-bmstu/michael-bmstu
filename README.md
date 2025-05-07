@@ -37,9 +37,11 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 
 ## 💼 My projects and achievements
 
-### [Stramlit interface for Rucode 2024 task "Housing Issue", 2025](https://github.com/michael-bmstu/house-issue-prod)
+### [Streamlit interface for Rucode 2024 task "Housing Issue", 2025](https://github.com/michael-bmstu/house-issue-prod)
 
-Implementation of a web interface based on a library Stramlit for solving the "Housing issue" problem of the artificial intelligence track of the RuCode 2024 festival
+Implementation of a web interface based on a library Stramlit for solving the "Housing issue" problem of the artificial intelligence track of the RuCode 2024 festival.
+
+* Technology stack used: Streamlit, Scikit-learn, CatBoost, Pandas.
 
 ### [RuCode: Housing Issue (2-nd place), 2024](https://github.com/michael-bmstu/RuCode_2024)
 
