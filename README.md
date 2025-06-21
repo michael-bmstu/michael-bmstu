@@ -48,7 +48,7 @@ Implementation of a web interface based on the Gradio library for a [recommender
 Implementation of a web interface based on a library Stramlit for solving the ["Housing issue" problem](https://github.com/michael-bmstu/RuCode_2024)
 of the artificial intelligence track of the RuCode 2024 festival.
 
-* Technology stack used: Streamlit, Scikit-learn, CatBoost, Pandas.
+* Technology stack used: Streamlit, Scikit-learn, CatBoost, Pandas
 
 ### [RuCode: Housing Issue (2-nd place), 2024](https://github.com/michael-bmstu/RuCode_2024)
 
@@ -56,7 +56,7 @@ This repository presents a solution to the task "Housing Issue" of the artificia
 
 It describes the basic data manipulations (NaN filling, EDA) that were performed to achieve the best result, parameter selection and training of the CarBoostRegressor model.
 
-* Technology stack used: Scikit-learn, CatBoost, Pandas, Matplotlib, Optuna.
+* Technology stack used: Scikit-learn, CatBoost, Pandas, Matplotlib, Optuna
 
 
 ### [DLS x ecom.tech workshop (20-th place), 2024](https://github.com/michael-bmstu/ecom-t_x_dls)
@@ -64,8 +64,7 @@ It describes the basic data manipulations (NaN filling, EDA) that were performed
 This repository presents the top 20 solutions to the problem of multilabel classification using the CatBoost (ML) and BERT (DL) models.
 The [competition](https://ods.ai/competitions/dls_ecomtech) was held at the DLS and ecom.tech workshop.
 
-* Technology stack used: PyTorch, Transformers, CatBoost, Pandas, Matplotlib.
-
+* Technology stack used: PyTorch, Transformers, CatBoost, Pandas, Matplotlib
 
 
 ### [Clustering recomendation system, 2024](https://github.com/michael-bmstu/clustering_recomend_system)
@@ -76,7 +75,7 @@ The notebook included cleaning data from outliers, forming a one-hot table for t
 training the KMeans model and selecting the hyper parameter k (number of clusters). 
 Finally, a recommendation algorithm was implemented based on user ratings for each genre and viewing history.
 
-* Technology stack used: Pandas, Matplotlib, Scikit-learn.
+* Technology stack used: Pandas, Matplotlib, Scikit-learn
 
 
 ### [Pix2Pix with GAN, 2023](https://github.com/michael-bmstu/pix2pix_gan)
@@ -92,4 +91,4 @@ This repository presents a solution to the task "Vehicle Color Recognition" of t
 
 I built a pipeline to train the ResNet101 model using photos of cars of different colors. As a result of training, the quality of the model reached the value = 0.9856 of the metric f1-score.
 
-* Technology stack used: PyTorch, Torchvision, Matplotlib.
+* Technology stack used: PyTorch, Torchvision, Matplotlib
