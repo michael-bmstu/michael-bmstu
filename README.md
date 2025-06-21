@@ -37,9 +37,16 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 
 ## 💼 My projects and achievements
 
+### [Gradio interface for clustering recomendation system, 2025](https://github.com/michael-bmstu/recsys-gradio)
+
+Implementation of a web interface based on the Gradio library for a [recommender system](https://github.com/michael-bmstu/clustering_recomend_system)
+
+* Technology stack used: Fast API, Docker, DVC, Gradio, Scikit-learn, Pandas
+
 ### [Streamlit interface for Rucode 2024 task "Housing Issue", 2025](https://github.com/michael-bmstu/house-issue-prod)
 
-Implementation of a web interface based on a library Stramlit for solving the "Housing issue" problem of the artificial intelligence track of the RuCode 2024 festival.
+Implementation of a web interface based on a library Stramlit for solving the ["Housing issue" problem](https://github.com/michael-bmstu/RuCode_2024)
+of the artificial intelligence track of the RuCode 2024 festival.
 
 * Technology stack used: Streamlit, Scikit-learn, CatBoost, Pandas.
 
