@@ -31,9 +31,9 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 ## 💻 Professional activity
 - Classic Machine Learning (ML)
 - Data Analysis (DA)
-- Recomendation Systems (RecSys)
 - Computer Vision (CV)
 - Optical Character Recognition (OCR)
+- Prompt engineering
 
 ## 💼 My projects and achievements
 
