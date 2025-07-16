@@ -24,6 +24,7 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 - Computer Vision (CV)
 - Optical Character Recognition (OCR)
 - Prompt engineering
+- LLM engineering
 
 ## 💼 My projects and achievements
 
