@@ -12,21 +12,11 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 **Institution:** Bauman Moscow State Technical University (BMSTU)  
 **Completion Date:** 2024 
 
-### Additional Courses
-
-- **Course Title:** Machine Learning  
-  **Organization:** Open Data Science, Omsk State Technical University (OmGTU), 7-bits  
-  **Completion Date:** 2024  
-
-- **Course Title:** Deep Learning in Neural Networks and Computer Vision  
-  **Organization:** Deep Learning School, Moscow Institute of Physics and Technology (MIPT)  
-  **Completion Date:** 2023  
-
 ## 🛠 Technology stack
 
 - **Languages**: Python, C/C++
-- **Frameworks & Libraries**:  PyTorch, Torchvision, Transformers, Keras, Scikit-learn, CatBoost, OpenCV, Streamlit
-- **Tools & Platforms**: Git, VS-code, Airflow, ML Flow
+- **Frameworks & Libraries**:  PyTorch, Torchvision, Transformers, Keras, Scikit-learn, CatBoost, OpenCV, Streamlit, Gradio, FastAPI
+- **Tools & Platforms**: VS-code, Git, Airflow, ML Flow, Docker, DVC, AWS MinIO S3
 
 ## 💻 Professional activity
 - Classic Machine Learning (ML)
