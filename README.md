@@ -28,6 +28,12 @@ Interests: Mathematics 👨‍🎓, competitive Data Science 🥇, cooking 👨�
 
 ## 💼 My projects and achievements
 
+### [LLM IFRS financial reporting parser, 2025](https://github.com/michael-bmstu/llm-parser)
+
+Parser for pdf files of IFRS financial statements. LLM finds in the document the values of key indicators of IFRS reporting such as revenue, net profit, assets, capital.
+
+* Technology stack used: Fast API, Gradio, Langchain
+
 ### [Gradio interface for clustering recomendation system, 2025](https://github.com/michael-bmstu/recsys-gradio)
 
 Implementation of a web interface based on the Gradio library for a [recommender system](https://github.com/michael-bmstu/clustering_recomend_system)
